@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Flex related ignore
+public/appConfig.js
+build/
