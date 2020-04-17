@@ -1,5 +1,5 @@
 // your account sid
-var accountSid = '';
+var accountSid = 'AC0518d752ed4130cfd6cd379fbb23174b';
 
 // set to /plugins.json for local dev
 // set to /plugins.local.build.json for testing your build
